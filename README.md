@@ -18,6 +18,10 @@
 - [docker](https://www.docker.com/community-edition): tool that can package an application and its dependencies in a virtual container that can run on any Linux server.
 - [brew](https://brew.sh/): package manager for macOS
 
+### Web-browser
+- [chrome](https://www.google.ru/chrome/browser/desktop/)
+- [tor](https://www.torproject.org/projects/torbrowser.html.en#downloads)
+- [firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 ### Relax
 - [noizio](http://noiz.io/): app that will drown out the noise of the street and allow you to concentrate on the work at hand, increasing your productivity.
@@ -27,6 +31,7 @@
 - [magnet](https://itunes.apple.com/ua/app/magnet/id441258766?mt=12)
 - [tunnelblick](https://tunnelblick.net/downloads.html)
 - [clean my mac](https://macpaw.com/)
+- [punto switcher](https://yandex.ru/soft/punto/)
 
 ### Visualization 
 - [draw.io](https://download.draw.io): for diagramms
